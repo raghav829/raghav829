@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Raghav, I'm an engineering student studying at UBC and doing coding as a side hobby.
+
 <!--
 **raghav829/raghav829** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
